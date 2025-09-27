@@ -1,0 +1,15 @@
+OSTYPE='linux-gnu'
+BASH_VERSION='GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.'
+SH_VERSION='sh: 0: Illegal option --'
+GIT_VERSION='git version 2.43.0'
+PYTHON3_VERSION='Python 3.12.3'
+PYTHON_VERSION='gen-debug.sh:12: command not found: python'
+PY_VERSION='gen-debug.sh:13: command not found: py'
+JAVA_VERSION='openjdk version "17.0.16" 2025-07-15
+OpenJDK Runtime Environment (build 17.0.16+8-Ubuntu-0ubuntu124.04.1)
+OpenJDK 64-Bit Server VM (build 17.0.16+8-Ubuntu-0ubuntu124.04.1, mixed mode, sharing)'
